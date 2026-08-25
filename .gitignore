@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.suo
+*.user
+Backup/
+_UpgradeReport_Files/
+UpgradeLog.*
+*.csi
