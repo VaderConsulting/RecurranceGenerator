@@ -18,6 +18,10 @@ C# library that builds lists of recurrence dates: daily, weekly, monthly, and ye
 
 Open `RecurrenceGenerator.sln` in Visual Studio 2012 or later. Run RecurrenceTester.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 3.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `RecurranceGenerator`). Namespaces mix `RecurrenceGenerator` and `BOCA.RecurrenceGenerator`. Assembly copyright fields are empty. See `THIRD_PARTY_NOTICES.md`.
