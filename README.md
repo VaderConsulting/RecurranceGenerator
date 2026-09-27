@@ -24,6 +24,8 @@ Open `RecurrenceGenerator.sln` in Visual Studio 2012 or later. Run RecurrenceTes
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 From Dave Robinson's Historical Dev archive (OneDrive folder `RecurranceGenerator`). Namespaces mix `RecurrenceGenerator` and `BOCA.RecurrenceGenerator`. Assembly copyright fields are empty. See `THIRD_PARTY_NOTICES.md`.
 
 ## License
